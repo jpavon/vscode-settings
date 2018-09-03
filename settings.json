@@ -1,0 +1,35 @@
+{
+    "editor.fontSize": 17,
+    "workbench.colorTheme": "Monokai",
+    "editor.lineHeight": 30,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.fontFamily": "Source Code Pro",
+    "files.trimTrailingWhitespace": true,
+    "editor.acceptSuggestionOnEnter": "smart",
+    "workbench.statusBar.feedback.visible": false,
+    "editor.occurrencesHighlight": false,
+    "files.insertFinalNewline": true,
+    "window.closeWhenEmpty": true,
+    "editor.minimap.showSlider": "always",
+    "emmet.includeLanguages": {
+        "javascript": "typescriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "workbench.colorCustomizations": {
+        "editorGroupHeader.tabsBackground": "#141414",
+        "editorGroupHeader.tabsBorder": "#0f0f0f",
+        "tab.inactiveBackground": "#141414",
+        "tab.activeBackground": "#2e3235",
+        "tab.activeBorder": "#3c4b53"
+    },
+    "window.title": "${activeEditorLong}",
+    "files.exclude": {
+        "**/node_modules/": true,
+        "**/vendor/": true,
+        ".awcache": true
+    },
+    "typescript.tsserver.log": "verbose",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[ejs]": {},
+    "breadcrumbs.enabled": true,
+}
